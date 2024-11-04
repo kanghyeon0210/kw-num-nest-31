@@ -13,5 +13,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "k": "^1.1.5",
+    "kw-num-nest-31": "^1.0.0"
   }
 }
